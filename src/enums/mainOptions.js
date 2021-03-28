@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
-    BUSINESS: 'Business',
-    EDUCATION: 'Education',
-    NONPROFIT: 'NonProfit',
-    PERSONAl : 'Personal'
+    BUSINESS: 'business',
+    EDUCATION: 'education',
+    NONPROFIT: 'nonprofit',
+    PERSONAl : 'personal'
 });
