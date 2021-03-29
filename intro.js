@@ -12,6 +12,7 @@
 //-> visuals ==> 6
 //-> outline ==> 13
 //-> tags ==> 1
+//control + c to exit
 
 //Note: did not get time to add more rules,  if get time, next steps were 
 //1) add defalut template
